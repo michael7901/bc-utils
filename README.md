@@ -49,7 +49,7 @@ Features:
 
 ## For pysystemtrade users
 
-This project was originally created to make it easier to populate [pysystemtrade](https://github.com/robcarver17/pysystemtrade) (PST) with futures prices from Barchart, so setup is straightforward. Steps:
+This project was originally created to make it easier to populate [pysystemtrade](https://github.com/michael7901/bc-utils) with futures prices from Barchart, so setup is straightforward. Steps:
 
 1. Clone the bc-utils repo, or your own fork. The remaining steps assume the location `~/bc-utils`
 
